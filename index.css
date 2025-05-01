@@ -1,0 +1,73 @@
+body {
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+}
+button {
+  padding: 6px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+input {
+  padding: 6px;
+  font-size: 14px;
+  width: 60%;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+.card {
+  background: white;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+.favorites ul {
+  list-style: none;
+  padding-left: 0;
+}
+.favorites li {
+  margin-bottom: 8px;
+}
+.favorites li button {
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.favorites li button:hover {
+  background-color: #ff4500;
+}
+.favorites li button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+.favorites li button:disabled:hover {
+  background-color: #ccc;
+}
+.favorites li button:disabled:active {
+  background-color: #ccc;
+}
+.favorites li button:disabled:focus {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
+.favorites li button:disabled:focus-visible {
+  outline: none;
+}
